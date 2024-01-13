@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.nevigation{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(32, 32, 32);
+  border: 2px solid black;
+  color: aliceblue;
+  font-size: larger;
+  padding: 26px;
+}
+.img1{
+  display: flex;
+  justify-content: space-evenly;
+}
+.footer{
+  background-color: black;
+  border: 2px solid black;
+  color: white;
+  display:flex;
+  justify-content: space-evenly;
+  margin-top: 10px;
+}
+.footer p{
+  margin-top: 100px;
+}
